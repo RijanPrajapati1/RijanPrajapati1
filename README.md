@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working as a Flutter Developer at OHO Solutions.<br>👯 I'm looking to collaborate on open-source Flutter packages,projects and full-stack web projects.<br>🤝 I'm looking for help with backend system design and scaling APIs for high-traffic mobile and web apps<br>🌱 I'm currently learning Node JS for backend, advanced state-management patterns<br>💬 Ask me about Flutter, Dart, React, and full-stack MERN development<br>⚡ Fun fact -> 99 little bugs in the code, 99 little bugs... take one down, patch it around, 127 little bugs in the code
 
+🔗 Portfolio - http://rijanprajapati.com.np/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rizan_daii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rijan-prajapati-6a6979271/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rijanpraz@gmail.com) 
